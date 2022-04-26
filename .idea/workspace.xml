@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be32c728-6f35-4d82-adc2-afe3683a2051" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true " />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="27S095yRbcowOZ1ALiZS3PThNM0" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/yeb-web/src/views" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\springboot\yeb\yeb-web\src\views" />
+      <recent name="G:\springboot\yeb\yeb-web" />
+      <recent name="G:\springboot\yeb\yeb-web\src" />
+      <recent name="G:\springboot\yeb\yeb-web\src\utils" />
+      <recent name="G:\springboot\yeb\yeb-web\src\views\sys" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\springboot\yeb\yeb-server\src\main\resources\config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wang" />
+    </key>
+  </component>
+  <component name="RubyModuleManagerSettings">
+    <option name="blackListedRootsPaths">
+      <list>
+        <option value="$PROJECT_DIR$" />
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.YebApplication">
+    <configuration name="CodeGenerator (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xxxx.generator.CodeGenerator" />
+      <module name="yeb-generator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxxx.generator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wang.generator.CodeGenerator" />
+      <module name="yeb-generator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wang.generator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisPlusGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wang.generator.MybatisPlusGenerator" />
+      <module name="yeb-generator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wang.generator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MailApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="yeb-mail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wang.MailApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="yeb-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wang.YebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.YebApplication" />
+        <item itemvalue="Spring Boot.MailApplication" />
+        <item itemvalue="Application.CodeGenerator (1)" />
+        <item itemvalue="Application.MybatisPlusGenerator" />
+        <item itemvalue="Application.CodeGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be32c728-6f35-4d82-adc2-afe3683a2051" name="Default Changelist" comment="" />
+      <created>1649298025701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649298025701</updated>
+      <workItem from="1649298027405" duration="270000" />
+      <workItem from="1649298312843" duration="2852000" />
+      <workItem from="1649324266110" duration="10354000" />
+      <workItem from="1649334792533" duration="3152000" />
+      <workItem from="1649569577843" duration="613000" />
+      <workItem from="1649663267547" duration="276000" />
+      <workItem from="1649663600136" duration="6976000" />
+      <workItem from="1649678387929" duration="1263000" />
+      <workItem from="1649721818945" duration="29000" />
+      <workItem from="1649913358600" duration="3585000" />
+      <workItem from="1649936030547" duration="2621000" />
+      <workItem from="1650005534249" duration="1177000" />
+      <workItem from="1650018036092" duration="9018000" />
+      <workItem from="1650092630463" duration="279000" />
+      <workItem from="1650092994838" duration="27171000" />
+      <workItem from="1650240200251" duration="24845000" />
+      <workItem from="1650327160870" duration="15506000" />
+      <workItem from="1650350548571" duration="2375000" />
+      <workItem from="1650364754860" duration="9462000" />
+      <workItem from="1650386246196" duration="1470000" />
+      <workItem from="1650412964270" duration="10925000" />
+      <workItem from="1650425288010" duration="345000" />
+      <workItem from="1650431924042" duration="4713000" />
+      <workItem from="1650441677869" duration="3443000" />
+      <workItem from="1650445180631" duration="7819000" />
+      <workItem from="1650467703085" duration="12165000" />
+      <workItem from="1650528069367" duration="1206000" />
+      <workItem from="1650534686632" duration="11425000" />
+      <workItem from="1650624858125" duration="1391000" />
+      <workItem from="1650682433605" duration="7199000" />
+      <workItem from="1650692576066" duration="2622000" />
+      <workItem from="1650696951953" duration="1434000" />
+      <workItem from="1650699166598" duration="1461000" />
+      <workItem from="1650704675732" duration="1248000" />
+      <workItem from="1650708275653" duration="8522000" />
+      <workItem from="1650783073025" duration="630000" />
+      <workItem from="1650786047589" duration="261000" />
+      <workItem from="1650788144406" duration="253000" />
+      <workItem from="1650794497466" duration="1021000" />
+      <workItem from="1650795561522" duration="295000" />
+      <workItem from="1650795877305" duration="442000" />
+      <workItem from="1650796694877" duration="8200000" />
+      <workItem from="1650815005370" duration="1453000" />
+      <workItem from="1650874392300" duration="16000" />
+      <workItem from="1650884543656" duration="20000" />
+      <workItem from="1650938470558" duration="1848000" />
+      <workItem from="1650940359809" duration="4856000" />
+      <workItem from="1650956091894" duration="615000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.messaging.MessageDeliveryException" package="org.springframework.messaging" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
